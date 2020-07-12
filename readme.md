@@ -1,3 +1,6 @@
+## Original Repo
+[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
 ## Github Readme stats
 
 [![Test](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg)](https://github.com/anuraghazra/github-readme-stats/actions)
